@@ -1,0 +1,19 @@
+span {
+    position: relative;
+    top: 300px;
+}
+
+.image { 
+    position: relative;
+}
+
+.frame {
+    font-weight: bold;
+    text-align: center;
+    vertical-align: bottom;
+    color: red;
+    background-repeat: no-repeat;
+    background-size: 600px 400px;
+    width: 600px;
+    height: 400px;
+}
